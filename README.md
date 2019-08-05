@@ -7,3 +7,4 @@ Go to http://www.elinux.org/How_to_make_a_debian_rootfs_for_MIPS_CI20 for instru
 
 
 wget https://raw.githubusercontent.com/wdmomoxx/mkdebianrfs/master/mkdebianrfs.sh
+sudo ./mkdebianrfs.sh --tar mipsel jessie debian-jessie-mipsel-rootfs.tar.bz2
